@@ -27,3 +27,14 @@ no 2 is the one which you will drink her squirtandpiss
 
 ## Install PantyStink
 
+1. Pull the parrotsec/secirity image
+2. Run the following commands
+```bash
+docker pull parrotsec/security
+docker run -it parrotsec/security
+```
+3. Wiuth this command , you can load a directory of your choice (mounting a volume) and then start the container with a directory inside container which didnt exist before 
+
+```docker
+docker run -v $(pwd):/some/nonexistent/directory parrotsec/security
+```
