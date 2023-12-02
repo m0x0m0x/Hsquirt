@@ -36,5 +36,5 @@ docker run -it parrotsec/security
 3. Wiuth this command , you can load a directory of your choice (mounting a volume) and then start the container with a directory inside container which didnt exist before 
 
 ```docker
-docker run -v $(pwd):/some/nonexistent/directory parrotsec/security
+docker run -v $(pwd):/pussy parrotsec/security
 ```
