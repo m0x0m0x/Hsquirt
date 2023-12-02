@@ -1,10 +1,10 @@
 #!/bin/fish
-/workspace/ha1/st/pnp.fish
-/workspace/ha1/st/fixrs.fish
-/workspace/ha1/st/st.sh
-/workspace/ha1/st/aryt.fish
-/workspace/ha1/st/tgpt.fish
-/workspace/ha1/st/bun.fish
-/workspace/ha1/st/tmuxx.fish
+/workspaces/Hsquirt/fu/pnp.fish
+/workspaces/Hsquirt/fu/fixrs.fish
+/workspaces/Hsquirt/fu/st.sh
+/workspaces/Hsquirt/fu/aryt.fish
+/workspaces/Hsquirt/fu/tgpt.fish
+/workspaces/Hsquirt/fu/bun.fish
+/workspaces/Hsquirt/fu/tmuxx.fish
 
 
