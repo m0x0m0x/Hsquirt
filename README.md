@@ -2,8 +2,8 @@
 
 ---
 
-<h1 align="center"><code> HSquirt </code></h1>
-<h2 align="center"><i> HSquiert work being done here </i></h2>
+<h1 align="center"><code> Branch AI </code></h1>
+<h2 align="center"><i> AI testing here </i></h2>
 
 ---
 
